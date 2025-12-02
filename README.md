@@ -3,7 +3,7 @@ my solutions in JavaScript for [Advent of Code](https://adventofcode.com/) 2025
 |  Day  |    Total    |   Part 1  |   Part 2  |
 | :---: |        ---: |      ---: |      ---: |
 | 01    |      89 min |    11 min |    78 min |
-| 02    |             |           |           |
+| 02    |       9 min |     5 min |     4 min |
 | 03    |             |           |           |
 | 04    |             |           |           |
 | 05    |             |           |           |
