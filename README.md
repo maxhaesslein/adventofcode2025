@@ -4,7 +4,7 @@ my solutions in JavaScript for [Advent of Code](https://adventofcode.com/) 2025
 | :---: |        ---: |      ---: |      ---: |
 | 01    |      89 min |    11 min |    78 min |
 | 02    |       9 min |     5 min |     4 min |
-| 03    |             |           |           |
+| 03    |      30 min |     7 min |    23 min |
 | 04    |             |           |           |
 | 05    |             |           |           |
 | 06    |             |           |           |
